@@ -1,0 +1,16 @@
+{
+    "name": "Time limit ext",
+    "version": "1.0.0",
+    "description":"extension for limiting time on time consuming website",
+    "manifest_version": 3,
+    "author": "Isaac Kiplangat",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": ""
+    },
+    "permissions":[
+        "tabs"
+        //"*://*/*"
+    ]
+    
+}
